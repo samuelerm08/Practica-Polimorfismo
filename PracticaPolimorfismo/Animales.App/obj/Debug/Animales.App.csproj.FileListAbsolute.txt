@@ -1,0 +1,14 @@
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\bin\Debug\Animales.App.exe.config
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\bin\Debug\Animales.App.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\bin\Debug\Animales.App.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\bin\Debug\ClassLibrary1.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\bin\Debug\ClassLibrary1.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\obj\Debug\Animales.App.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\obj\Debug\Animales.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\obj\Debug\Animales.App.Form1.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\obj\Debug\Animales.App.Properties.Resources.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\obj\Debug\Animales.App.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\obj\Debug\Animales.App.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\obj\Debug\Animales.App.csproj.CopyComplete
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\obj\Debug\Animales.App.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Animales.App\obj\Debug\Animales.App.pdb

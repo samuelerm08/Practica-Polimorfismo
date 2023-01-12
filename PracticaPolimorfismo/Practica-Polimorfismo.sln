@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajedrez.Core", "Ajedrez.Core\Ajedrez.Core.csproj", "{7C3E98C5-D0B2-4407-BA6F-3B77782C2812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ajedrez.App", "Ajedrez.App\Ajedrez.App.csproj", "{481016D6-B6B0-4D8D-8AE4-2D02005F90A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TPAjedrez", "TPAjedrez", "{AB877321-2022-4185-B573-ECCA4959AB05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TPAnimales", "TPAnimales", "{74EADFAE-6AD2-4DAC-8C3D-2F898E55D002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animales.Core", "ClassLibrary1\Animales.Core.csproj", "{AC60A7E2-E165-4A3A-85BD-1F31E47311CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animales.App", "Animales.App\Animales.App.csproj", "{1B0A2BE4-E8E5-48F1-A201-460638A860E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3E98C5-D0B2-4407-BA6F-3B77782C2812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3E98C5-D0B2-4407-BA6F-3B77782C2812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3E98C5-D0B2-4407-BA6F-3B77782C2812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3E98C5-D0B2-4407-BA6F-3B77782C2812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481016D6-B6B0-4D8D-8AE4-2D02005F90A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481016D6-B6B0-4D8D-8AE4-2D02005F90A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481016D6-B6B0-4D8D-8AE4-2D02005F90A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481016D6-B6B0-4D8D-8AE4-2D02005F90A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC60A7E2-E165-4A3A-85BD-1F31E47311CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC60A7E2-E165-4A3A-85BD-1F31E47311CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC60A7E2-E165-4A3A-85BD-1F31E47311CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC60A7E2-E165-4A3A-85BD-1F31E47311CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0A2BE4-E8E5-48F1-A201-460638A860E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0A2BE4-E8E5-48F1-A201-460638A860E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0A2BE4-E8E5-48F1-A201-460638A860E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0A2BE4-E8E5-48F1-A201-460638A860E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7C3E98C5-D0B2-4407-BA6F-3B77782C2812} = {AB877321-2022-4185-B573-ECCA4959AB05}
+		{481016D6-B6B0-4D8D-8AE4-2D02005F90A7} = {AB877321-2022-4185-B573-ECCA4959AB05}
+		{AC60A7E2-E165-4A3A-85BD-1F31E47311CA} = {74EADFAE-6AD2-4DAC-8C3D-2F898E55D002}
+		{1B0A2BE4-E8E5-48F1-A201-460638A860E8} = {74EADFAE-6AD2-4DAC-8C3D-2F898E55D002}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2CF67C-7564-4366-AA9D-82C4AF134AD8}
+	EndGlobalSection
+EndGlobal

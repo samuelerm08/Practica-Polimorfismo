@@ -1,0 +1,14 @@
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\bin\Debug\Ajedrez.App.exe.config
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\bin\Debug\Ajedrez.App.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\bin\Debug\Ajedrez.App.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\bin\Debug\Ajedrez.Core.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\bin\Debug\Ajedrez.Core.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\obj\Debug\Ajedrez.App.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\obj\Debug\Ajedrez.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\obj\Debug\Ajedrez.App.Form1.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\obj\Debug\Ajedrez.App.Properties.Resources.resources
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\obj\Debug\Ajedrez.App.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\obj\Debug\Ajedrez.App.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\obj\Debug\Ajedrez.App.csproj.CopyComplete
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\obj\Debug\Ajedrez.App.exe
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\Ajedrez.App\obj\Debug\Ajedrez.App.pdb

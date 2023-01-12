@@ -1,0 +1,6 @@
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\ClassLibrary1\obj\Debug\Animales.Core.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\ClassLibrary1\obj\Debug\Animales.Core.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\samue\OneDrive\Escritorio\BOOTCAMP\ProgramacionWeb.Net.Core\TPAjedrez\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
